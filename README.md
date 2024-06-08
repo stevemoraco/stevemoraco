@@ -12,11 +12,11 @@
   <img src="https://github.com/stevemoraco/stevemoraco/blob/main/mt.gif?raw=true" alt="MT GIF">
 </div>
 
-<div align="center">
-  <h1 style="font-size: 32px; color: #00ff00; text-shadow: 0 0 5px #00ff00;">(っ◔◡◔)っ✨</h1>
-  <h1 style="font-size: 32px; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">٩(＾◡＾)۶✨</h1>
-  <h1 style="font-size: 32px; color: #ffff00; text-shadow: 0 0 5px #ffff00;">⁀⊙෴☉⁀</h1>
-  <h1 style="font-size: 32px; color: #00ffff; text-shadow: 0 0 5px #00ffff;">(ᗒᗣᗕ)՞✊</h1>
-  <h1 style="font-size: 32px; color: #ff8000; text-shadow: 0 0 5px #ff8000;">٩(⊙‿⊙)۶✊</h1>
-  <h1 style="font-size: 32px; color: #8000ff; text-shadow: 0 0 5px #8000ff;">¯\_(ツ)_/¯</h1>
-</div>
+<marquee behavior="scroll" direction="left" scrollamount="10" style="background-color: rgba(0, 0, 0, 0.5); padding: 10px;">
+  <h1 style="display: inline-block; margin-right: 20px; font-size: 32px; color: #00ff00; text-shadow: 0 0 5px #00ff00;">(っ◔◡◔)っ✨</h1>
+  <h1 style="display: inline-block; margin-right: 20px; font-size: 32px; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">٩(＾◡＾)۶✨</h1>
+  <h1 style="display: inline-block; margin-right: 20px; font-size: 32px; color: #ffff00; text-shadow: 0 0 5px #ffff00;">⁀⊙෴☉⁀</h1>
+  <h1 style="display: inline-block; margin-right: 20px; font-size: 32px; color: #00ffff; text-shadow: 0 0 5px #00ffff;">(ᗒᗣᗕ)՞✊</h1>
+  <h1 style="display: inline-block; margin-right: 20px; font-size: 32px; color: #ff8000; text-shadow: 0 0 5px #ff8000;">٩(⊙‿⊙)۶✊</h1>
+  <h1 style="display: inline-block; margin-right: 20px; font-size: 32px; color: #8000ff; text-shadow: 0 0 5px #8000ff;">¯\_(ツ)_/¯</h1>
+</marquee>

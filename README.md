@@ -13,10 +13,10 @@
 </div>
 
 <div align="center">
-  <h1 style="font-size: 32px; color: #00ff00; text-shadow: 0 0 5px #00ff00;">(っ◔◡◔)っ</h1>
-  <h1 style="font-size: 32px; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">٩(＾◡＾)۶</h1>
+  <h1 style="font-size: 32px; color: #00ff00; text-shadow: 0 0 5px #00ff00;">(っ◔◡◔)っ✨</h1>
+  <h1 style="font-size: 32px; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">٩(＾◡＾)۶✨</h1>
   <h1 style="font-size: 32px; color: #ffff00; text-shadow: 0 0 5px #ffff00;">⁀⊙෴☉⁀</h1>
-  <h1 style="font-size: 32px; color: #00ffff; text-shadow: 0 0 5px #00ffff;">(ᗒᗣᗕ)՞</h1>
-  <h1 style="font-size: 32px; color: #ff8000; text-shadow: 0 0 5px #ff8000;">٩(⊙‿⊙)۶</h1>
-  <h1 style="font-size: 32px; color: #8000ff; text-shadow: 0 0 5px #8000ff;">꒰(･‿･)꒱</h1>
+  <h1 style="font-size: 32px; color: #00ffff; text-shadow: 0 0 5px #00ffff;">(ᗒᗣᗕ)՞✊</h1>
+  <h1 style="font-size: 32px; color: #ff8000; text-shadow: 0 0 5px #ff8000;">٩(⊙‿⊙)۶✊</h1>
+  <h1 style="font-size: 32px; color: #8000ff; text-shadow: 0 0 5px #8000ff;">¯\_(ツ)_/¯</h1>
 </div>

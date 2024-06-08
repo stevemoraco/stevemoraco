@@ -7,5 +7,5 @@
 ```
 
 ```math
-\ce{$&#x5C;unicode[goombafont; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 50dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 300px; animation: 20s linear both infinite dvd; background-image: url('https://github.com/stevemoraco/stevemoraco/blob/main/mt.gif?raw=true'); @keyframes dvd { 0% { transform: translate(-50%, -50%) translateX(0) translateY(0); } 25% { transform: translate(-50%, -50%) translateX(calc(100vw - 100%)) translateY(0); } 50% { transform: translate(-50%, -50%) translateX(calc(100vw - 100%)) translateY(calc(100vh - 100%)); } 75% { transform: translate(-50%, -50%) translateX(0) translateY(calc(100vh - 100%)); } 100% { transform: translate(-50%, -50%) translateX(0) translateY(0); } }]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; .avatar-user {content: url('https://github.com/stevemoraco/stevemoraco/blob/main/mt.gif?raw=true')!important; width: 250px!important; height: 250px!important; border-radius: 0!important;}]{x0000}$}
 ```

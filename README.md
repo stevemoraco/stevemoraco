@@ -1,11 +1,22 @@
 <sup>to commune digitally and asynchronously with my hivemind self, fork the repo below or go to [facetimeanyone.com](https://facetimeanyone.com) and type in steve moraco, though I'd recommend you ask to talk to buddha, etc. instead, much more fun</sup>
-<h1 align="center" style="font-size: 32px; color: #00ff00; text-shadow: 0 0 5px #00ff00;"> (っ◔◡◔)っ CYBERPUNK WEBSITE !!11 </h1>
-<h1 align="center" style="font-size: 28px; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;"> ٩(＾◡＾)۶⁀⊙෴☉⁀(ᗒᗣᗕ)՞ HACKER'S DEN ٩(⊙‿⊙)۶꒰(･‿･)꒱ </h1>
 
 ```math
 \ce{$&#x5C;unicode[goombafont; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.7; background: url('https://github.com/stevemoraco/stevemoraco/blob/main/bg.gif?raw=true');]{x0000}$}
 ```
 
 ```math
-\ce{$&#x5C;unicode[goombafont; .avatar-user {content: url('https://github.com/stevemoraco/stevemoraco/blob/main/mt.gif?raw=true')!important; width: 250px!important; height: 250px!important; border-radius: 0!important;}]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; .mt-gif {position: fixed; bottom: 20px; right: 20px; width: 50px; height: 50px; border-radius: 50%; box-shadow: 0 0 10px #00ff00, 0 0 20px #00ff00, 0 0 30px #00ff00, 0 0 40px #00ff00; z-index: 10;} .mt-gif img {width: 100%; height: 100%; object-fit: cover;}]{x0000}$}
 ```
+
+<div class="mt-gif">
+  <img src="https://github.com/stevemoraco/stevemoraco/blob/main/mt.gif?raw=true" alt="MT GIF">
+</div>
+
+<div align="center">
+  <h1 style="font-size: 32px; color: #00ff00; text-shadow: 0 0 5px #00ff00;">(っ◔◡◔)っ</h1>
+  <h1 style="font-size: 32px; color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">٩(＾◡＾)۶</h1>
+  <h1 style="font-size: 32px; color: #ffff00; text-shadow: 0 0 5px #ffff00;">⁀⊙෴☉⁀</h1>
+  <h1 style="font-size: 32px; color: #00ffff; text-shadow: 0 0 5px #00ffff;">(ᗒᗣᗕ)՞</h1>
+  <h1 style="font-size: 32px; color: #ff8000; text-shadow: 0 0 5px #ff8000;">٩(⊙‿⊙)۶</h1>
+  <h1 style="font-size: 32px; color: #8000ff; text-shadow: 0 0 5px #8000ff;">꒰(･‿･)꒱</h1>
+</div>
